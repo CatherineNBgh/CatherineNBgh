@@ -49,3 +49,6 @@ Please click a link below to be taken to one of my associated projects
 <a href="http://www.github.com/CatherineNBgh"><img src="https://github-readme-stats.vercel.app/api?username=CatherineNBgh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CatherineNBgh's GitHub stats" /></a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CatherineNBgh&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
